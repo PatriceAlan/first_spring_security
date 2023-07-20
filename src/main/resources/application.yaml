@@ -1,0 +1,6 @@
+#spring:
+#  security:
+#    user:
+#      name: Author
+#      password: security
+#
